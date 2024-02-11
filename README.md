@@ -19,3 +19,9 @@ $ cd python-M1LTE
 ```
 $ pixi install
 ```
+
+4. Invoke a new shell based on the environment:
+
+```
+$ pixi shell
+```
