@@ -1,0 +1,11 @@
+name: M1LTE
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4=4.12
+  - jupyterlab=4.1.0
+  - jupyterlab-latex=3.1
+  - matplotlib=3.8.2
+  - numpy=1.26.4
+  - python=3.12
