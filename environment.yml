@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - beautifulsoup4=4.12
+  - gensim
   - jupyterlab=4.1.0
   - jupyterlab-latex=3.1
   - matplotlib=3.8.2
