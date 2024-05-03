@@ -6,7 +6,7 @@ This script calculates the cosine similarities between 7 NGO discourses at COPs 
 
 Example of use:
 
-$ python word_similarities -k biodiversity
+$ python word_similarities.py -k biodiversity
 
 The NGOs are:
 - EDF: Environment Defense Fund
