@@ -10,5 +10,6 @@ dependencies:
   - matplotlib=3.8.2
   - nltk
   - numpy=1.26.4
+  - pandas
   - python=3.11
   - spacy=3.7
